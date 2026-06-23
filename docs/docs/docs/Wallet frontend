@@ -1,4 +1,21 @@
-wallet/
+Create HOÏ wallet frontend structurewallet/
 └── frontend/
 Create HOÏ wallet frontend structure
 Initialize wallet frontend structure for future HOÏ wallet development.
+Create HOÏ wallet frontend structure
+HOI-PROJECT/
+│
+├── docs/
+│   ├── README.md
+│   ├── Whitepaper.md
+│   ├── tokenomics.md
+│   ├── architecture.md
+│   ├── roadmap.md
+│   └── wallet-guide.md
+│
+├── contracts/
+│   └── hoi-token/
+│       └── contract.rs
+│
+└── wallet/
+    └── frontend/
